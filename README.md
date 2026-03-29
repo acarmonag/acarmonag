@@ -58,7 +58,9 @@ SRE focused on building reliable, observable, and automated infrastructure on AW
 
 ## Education
 
-**B.S. Systems Engineering** — Universidad EAFIT, Medellín *(in progress)*
+**B.S. Systems Engineering** — Universidad EAFIT, Medellín · GPA 4.0 · Graduated July 2025
+
+**Specialization in Software Development** *(in progress)* — Universidad EAFIT, Medellín
 
 ---
 
