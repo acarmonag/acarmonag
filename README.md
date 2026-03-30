@@ -50,7 +50,7 @@ SRE focused on building reliable, observable, and automated infrastructure on AW
 
 ## Currently Building
 
-- `sre-observability-platform` — FastAPI service with Prometheus metrics, Grafana dashboards, and realistic failure injection
+- `[sre-observability-platform](https://github.com/acarmonag/sre-observability-platform)` — FastAPI service with Prometheus metrics, Grafana dashboards, and realistic failure injection
 - `ai-runbook-automation` — Claude-powered agent for automated incident response
 - `terraform-aws-infra-modules` — production-grade reusable AWS modules
 
