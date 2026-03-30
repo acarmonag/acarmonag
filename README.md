@@ -42,7 +42,7 @@ SRE focused on building reliable, observable, and automated infrastructure on AW
 | [ai-runbook-automation](#) | Python · Claude API · FastAPI | LLM agent that reads alerts, queries metrics, and executes remediation |
 | [db-migration-framework](#) | Python · Snowflake · Alembic · Lambda | Zero-downtime migration runner with rollback, validation, and dry-run |
 | [Medical-Literature-Classifier](https://github.com/acarmonag/Medical-Literature-Classifier) | PubMedBERT · PyTorch · HuggingFace | Multi-label classifier for cardiology, oncology, neurology, hepatology |
-| [PILB](https://github.com/acarmonag/PILB) | Python · Nginx | Reverse proxy + load balancer implementation |
+| [PILB](https://github.com/acarmonag/pilb) | Python · Nginx | Reverse proxy + load balancer implementation |
 
 > The first four projects are currently in development — check back soon.
 
