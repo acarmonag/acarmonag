@@ -38,9 +38,9 @@ SRE focused on building reliable, observable, and automated infrastructure on AW
 | Project | Stack | What it solves |
 |---|---|---|
 | [sre-observability-platform](https://github.com/acarmonag/sre-observability-platform) | FastAPI · Prometheus · Grafana · AWS | Full observability stack with intentional failure modes and alerting rules |
-| [terraform-aws-infra-modules (INPROGRESS)](#) | Terraform · ECS · RDS · GitHub Actions | Reusable IaC modules with per-env tfvars, S3 state, and CI plan/apply |
-| [ai-runbook-automation (INPROGRESS)](#) | Python · Claude API · FastAPI | LLM agent that reads alerts, queries metrics, and executes remediation |
-| [db-migration-framework (INPROGRESS)](#) | Python · Snowflake · Alembic · Lambda | Zero-downtime migration runner with rollback, validation, and dry-run |
+| [terraform-aws-infra-modules (INPROGRESS)] | Terraform · ECS · RDS · GitHub Actions | Reusable IaC modules with per-env tfvars, S3 state, and CI plan/apply |
+| [ai-runbook-automation (INPROGRESS)] | Python · Claude API · FastAPI | LLM agent that reads alerts, queries metrics, and executes remediation |
+| [db-migration-framework (INPROGRESS)] | Python · Snowflake · Alembic · Lambda | Zero-downtime migration runner with rollback, validation, and dry-run |
 | [Medical-Literature-Classifier](https://github.com/acarmonag/Medical-Literature-Classifier) | PubMedBERT · PyTorch · HuggingFace | Multi-label classifier for cardiology, oncology, neurology, hepatology |
 | [PILB](https://github.com/acarmonag/pilb) | Python · Nginx | Reverse proxy + load balancer implementation |
 
